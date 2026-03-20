@@ -4,7 +4,7 @@
 
 **Built by:** Byron Wanjau | Data Analyst | Nairobi, Kenya
 **Platform:** Databricks (Free Edition) | Unity Catalog | Serverless Compute
-**Live Dashboard:** [View Published Dashboard](https://dbc-8ed91520-e60a.cloud.databricks.com/dashboardsv3/01f122cf1b8916c7b671632ec602c85b/published?o=7474656367840140)
+**Live Dashboard:** (https://dbc-8ed91520-e60a.cloud.databricks.com/dashboardsv3/01f122cf1b8916c7b671632ec602c85b/published?o=7474656367840140)
 
 ---
 
@@ -74,7 +74,6 @@ The platform was built to answer 6 commercial questions that raw data systems fa
 │  Published │ Global filters │ Stakeholder-ready                  │
 └─────────────────────────────────────────────────────────────────┘
 ```
-
 ---
 
 ## 📦 Project Modules
@@ -273,35 +272,6 @@ uk-retail-commercial-intelligence-platform/
 
 ---
 
-## 🚀 How to Run
-
-### Prerequisites
-- Databricks workspace (Free Edition or above)
-- Unity Catalog enabled
-- Serverless compute
-
-### Setup
-1. Clone this repository
-2. Upload all files from `data/` to a Databricks Volume:
-   ```
-   /Volumes/workspace/ukretailcommercialproject/uk_retail_project/
-   ```
-3. Import notebooks from `notebooks/` into your Databricks Workspace
-4. Run notebooks in this order:
-   ```
-   Module_07 → Module_01 → Module_02 → Module_03 → Module_04 → Module_06
-   ```
-5. Connect AI/BI Dashboard to `workspace.uk_retail_commercial` Gold tables
-
-### Install Dependencies
-```python
-# Run in Module_03 only
-%pip install prophet mlflow --quiet
-```
-
----
-
-## 📈 Analytical Thinking Framework
 
 This project was audited against a professional analytical thinking framework covering 23 questions across 4 areas:
 
