@@ -1,3 +1,8 @@
+[UK Retail Commercial Intelligence Platform 2026-03-20 11_15.pdf](https://github.com/user-attachments/files/26139606/UK.Retail.Commercial.Intelligence.Platform.2026-03-20.11_15.pdf)
+[UK Retail Commercial Intelligence Platform 2026-03-20 11_17.pdf](https://github.com/user-attachments/files/26139603/UK.Retail.Commercial.Intelligence.Platform.2026-03-20.11_17.pdf)
+[UK Retail Commercial Intelligence Platform 2026-03-20 11_18.pdf](https://github.com/user-attachments/files/26139602/UK.Retail.Commercial.Intelligence.Platform.2026-03-20.11_18.pdf)
+[UK Retail Commercial Intelligence Platform 2026-03-20 11_19.pdf](https://github.com/user-attachments/files/26139600/UK.Retail.Commercial.Intelligence.Platform.2026-03-20.11_19.pdf)
+[UK Retail Commercial Intelligence Platform 2026-03-20 11_21.pdf](https://github.com/user-attachments/files/26139598/UK.Retail.Commercial.Intelligence.Platform.2026-03-20.11_21.pdf)
 # 🛒 UK Retail Commercial Intelligence Platform
 
 > **End-to-end commercial analytics platform built on Databricks** — modelling contribution margin, promotional ROI, time-series forecasting, price elasticity, and auto-generated recommendations for a UK nursery retail brand.
