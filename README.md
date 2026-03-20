@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/01bda85f-fcda-4bdd-9cab-b90810efa20b
+
 [UK Retail Commercial Intelligence Platform 2026-03-20 11_15.pdf](https://github.com/user-attachments/files/26139606/UK.Retail.Commercial.Intelligence.Platform.2026-03-20.11_15.pdf)
 [UK Retail Commercial Intelligence Platform 2026-03-20 11_17.pdf](https://github.com/user-attachments/files/26139603/UK.Retail.Commercial.Intelligence.Platform.2026-03-20.11_17.pdf)
 [UK Retail Commercial Intelligence Platform 2026-03-20 11_18.pdf](https://github.com/user-attachments/files/26139602/UK.Retail.Commercial.Intelligence.Platform.2026-03-20.11_18.pdf)
